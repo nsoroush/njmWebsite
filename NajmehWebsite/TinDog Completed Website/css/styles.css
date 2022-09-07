@@ -33,10 +33,9 @@ p {
 
 /* Sections */
 
-.title-section {
+.colored-section {
   background-color: #ff4c68;
   color: #fff;
-
 }
 
 .white-section {
@@ -178,56 +177,3 @@ p {
     transform: rotate(0);
   }
 }
-
-
-  /************************ CLASS  SELECTOR************************/
-  .firsttry{
-    background-color: grey;
-    display: block;
-    margin.block.start : 10em;
-    margin.block.end : 0em;
-    margin.inline.start : 1em;
-    margin.inline.end : 5em;
-
-  }
-  .topbox{
-    background-color: #774360;
-    width: 200px;
-    height:30px;
-    padding-top: 20px;
-    padding-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    margin-left: 30px;
-    margin-right: 40px;
-    border: solid 20px;
-    border-color: yellow;
-  }
-  .middlebox{
-    background-color: #774360;
-    width: 200px;
-    height:30px;
-    padding-top: 20px;
-    padding-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    margin-left: 250px;
-    margin-right: 40px;
-    border: solid 20px;
-    border-color: yellow;
-  }
-#njmcontainer{ 
-    background-color: green;
-    width: 100%
-    height:30px;
-    padding-top: 20px;
-    padding-left: 20px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    margin-left: 250px;
-    margin-right: 40px;
-    border: solid 20px;
-    border-color: yellow;
-  }
-  /************************ ID  SELECTOR************************/
-  /*#heading {color: red}
